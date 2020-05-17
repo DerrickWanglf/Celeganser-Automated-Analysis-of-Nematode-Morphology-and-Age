@@ -25,5 +25,5 @@ We visualize the body UV-coordinate regression output. With the ground-truth and
 
 Worm body coordinate regression model takes as input the sub-image (b) which is cropped from the original image (a), and outputs worm segmentation mask (d) and UV coordinate predictions (f) and (h), respectively.
 
-##Acknowledgements
-We gratefully acknowledge Logan Tan, Nico- lette Laird and Aditya Somisetty of the Pincus Lab who created and curated the ground-truth image annotations. This research was supported by NIH grant NIA R01AG057748, NSF grants IIS-1813785 and IIS-1618806, a research gift from Qualcomm, and a hardware donation from NVIDIA. Shu Kong also acknowledges Kleist Endowed Fellowship for the generous support of inter-disciplinary research.
+## Acknowledgements
+We gratefully acknowledge Logan Tan, Nicolette Laird and Aditya Somisetty of the Pincus Lab who created and curated the ground-truth image annotations. This research was supported by NIH grant NIA R01AG057748, NSF grants IIS-1813785 and IIS-1618806, a research gift from Qualcomm, and a hardware donation from NVIDIA. Shu Kong also acknowledges Kleist Endowed Fellowship for the generous support of inter-disciplinary research.
